@@ -6,17 +6,19 @@ services:
     container_name: jellyfin
     # Optional - specify the uid and gid you would like Jellyfin to use instead of root
     user: 1000:1000
+    # group below should be render group on your system.
     group_add:
       - '989'
     network_mode: 'host'
     ports:
       - 8096:8096/tcp
       - 7359:7359/udp
+    # Writes persistent data to jellyfin directory.
     volumes:
       - ./config:/config
       - ./cache:/cache
+      # File path below specific to where your store media library
       - type: bind
-        # Specific to system
         source: /mnt/mediaserver
         target: /media
         read_only: true
