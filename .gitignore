@@ -1,5 +1,7 @@
 # gitignore, some docker apps are set to write data to their directories
 
+*.log
+
 # Jellyfin data
 jellyfin/config/
 jellyfin/cache/
