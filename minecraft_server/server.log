@@ -1,0 +1,265 @@
+2026-09-07 02:06:48 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:06:48 [INFO] Loading properties
+2026-09-07 02:06:48 [WARNING] server.properties does not exist
+2026-09-07 02:06:48 [INFO] Generating new properties file
+2026-09-07 02:06:48 [INFO] Starting Minecraft server on *:25565
+2026-09-07 02:06:48 [WARNING] Failed to load ban list: java.io.FileNotFoundException: banned-players.txt (No such file or directory)
+2026-09-07 02:06:48 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: banned-ips.txt (No such file or directory)
+2026-09-07 02:06:48 [WARNING] Failed to load ip ban list: java.io.FileNotFoundException: ops.txt (No such file or directory)
+2026-09-07 02:06:48 [WARNING] Failed to load white-list: java.io.FileNotFoundException: white-list.txt (No such file or directory)
+2026-09-07 02:06:48 [INFO] Preparing level "world"
+2026-09-07 02:06:48 [INFO] Preparing start region for level 0
+2026-09-07 02:06:49 [INFO] Preparing spawn area: 36%
+2026-09-07 02:06:50 [INFO] Preparing spawn area: 69%
+2026-09-07 02:06:51 [INFO] Preparing spawn area: 93%
+2026-09-07 02:06:51 [INFO] Preparing start region for level 1
+2026-09-07 02:06:52 [INFO] Preparing spawn area: 16%
+2026-09-07 02:06:53 [INFO] Preparing spawn area: 36%
+2026-09-07 02:06:54 [INFO] Preparing spawn area: 48%
+2026-09-07 02:06:55 [INFO] Preparing spawn area: 56%
+2026-09-07 02:06:56 [INFO] Preparing spawn area: 61%
+2026-09-07 02:06:57 [INFO] Preparing spawn area: 69%
+2026-09-07 02:06:59 [INFO] Preparing spawn area: 77%
+2026-09-07 02:07:00 [INFO] Preparing spawn area: 81%
+2026-09-07 02:07:01 [INFO] Preparing spawn area: 93%
+2026-09-07 02:07:01 [INFO] Done (13011533295ns)! For help, type "help" or "?"
+2026-09-07 02:07:10 [INFO] To run the server without a gui, start it like this:
+2026-09-07 02:07:10 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-09-07 02:07:10 [INFO] Console commands:
+2026-09-07 02:07:10 [INFO]    help  or  ?               shows this message
+2026-09-07 02:07:10 [INFO]    kick <player>             removes a player from the server
+2026-09-07 02:07:10 [INFO]    ban <player>              bans a player from the server
+2026-09-07 02:07:10 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-09-07 02:07:10 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-09-07 02:07:10 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-09-07 02:07:10 [INFO]    op <player>               turns a player into an op
+2026-09-07 02:07:10 [INFO]    deop <player>             removes op status from a player
+2026-09-07 02:07:10 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-09-07 02:07:10 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-09-07 02:07:10 [INFO]    tell <player> <message>   sends a private message to a player
+2026-09-07 02:07:10 [INFO]    stop                      gracefully stops the server
+2026-09-07 02:07:10 [INFO]    save-all                  forces a server-wide level save
+2026-09-07 02:07:10 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-09-07 02:07:10 [INFO]    save-on                   re-enables terrain saving
+2026-09-07 02:07:10 [INFO]    list                      lists all currently connected players
+2026-09-07 02:07:10 [INFO]    say <message>             broadcasts a message to all players
+2026-09-07 02:07:10 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-09-07 02:07:20 [INFO] Connected players: 
+2026-09-07 02:07:45 [INFO] /127.0.0.1:50218 lost connection
+2026-09-07 02:09:14 [INFO] CONSOLE: Stopping the server..
+2026-09-07 02:09:14 [INFO] Stopping server
+2026-09-07 02:09:14 [INFO] Saving chunks
+2026-09-07 02:09:14 [INFO] Saving chunks
+2026-09-07 02:10:54 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:10:54 [INFO] Loading properties
+2026-09-07 02:12:02 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:12:02 [INFO] Loading properties
+2026-09-07 02:12:02 [INFO] Starting Minecraft server on 10.137.150.253:25565
+2026-09-07 02:12:02 [INFO] Preparing level "world"
+2026-09-07 02:12:02 [INFO] Preparing start region for level 0
+2026-09-07 02:12:02 [INFO] Preparing start region for level 1
+2026-09-07 02:12:02 [INFO] Done (692785420ns)! For help, type "help" or "?"
+2026-09-07 02:12:43 [INFO] /10.137.150.253:51788 lost connection
+2026-09-07 02:12:48 [INFO] /10.137.150.253:49004 lost connection
+2026-09-07 02:14:11 [INFO] CONSOLE: Stopping the server..
+2026-09-07 02:14:11 [INFO] Stopping server
+2026-09-07 02:14:11 [INFO] Saving chunks
+2026-09-07 02:14:11 [INFO] Saving chunks
+2026-09-07 02:15:32 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:15:32 [INFO] Loading properties
+2026-09-07 02:15:32 [INFO] Starting Minecraft server on 127.0.0.1:25565
+2026-09-07 02:15:32 [INFO] Preparing level "world"
+2026-09-07 02:15:32 [INFO] Preparing start region for level 0
+2026-09-07 02:15:32 [INFO] Preparing start region for level 1
+2026-09-07 02:15:32 [INFO] Done (306551856ns)! For help, type "help" or "?"
+2026-09-07 02:15:47 [INFO] /127.0.0.1:58232 lost connection
+2026-09-07 02:15:52 [INFO] Stopping server
+2026-09-07 02:15:52 [INFO] Saving chunks
+2026-09-07 02:15:52 [INFO] Saving chunks
+2026-09-07 02:16:58 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:16:58 [INFO] Loading properties
+2026-09-07 02:16:58 [INFO] Starting Minecraft server on 127.0.0.1:88
+2026-09-07 02:16:58 [WARNING] **** FAILED TO BIND TO PORT!
+2026-09-07 02:16:58 [WARNING] The exception was: java.net.BindException: Permission denied
+2026-09-07 02:16:58 [WARNING] Perhaps a server is already running on that port?
+2026-09-07 02:17:13 [INFO] Stopping server
+2026-09-07 02:17:53 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:17:53 [INFO] Loading properties
+2026-09-07 02:17:53 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-07 02:17:53 [INFO] Preparing level "world"
+2026-09-07 02:17:53 [INFO] Preparing start region for level 0
+2026-09-07 02:17:53 [INFO] Preparing start region for level 1
+2026-09-07 02:17:53 [INFO] Done (289646488ns)! For help, type "help" or "?"
+2026-09-07 02:18:18 [INFO] /127.0.0.1:58232 lost connection
+2026-09-07 02:18:45 [INFO] /127.0.0.1:39660 lost connection
+2026-09-07 02:19:54 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:19:54 [INFO] Loading properties
+2026-09-07 02:19:54 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-07 02:19:54 [INFO] Preparing level "world"
+2026-09-07 02:19:54 [INFO] Preparing start region for level 0
+2026-09-07 02:19:54 [INFO] Preparing start region for level 1
+2026-09-07 02:19:54 [INFO] Done (276858362ns)! For help, type "help" or "?"
+2026-09-07 02:19:58 [INFO] To run the server without a gui, start it like this:
+2026-09-07 02:19:58 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-09-07 02:19:58 [INFO] Console commands:
+2026-09-07 02:19:58 [INFO]    help  or  ?               shows this message
+2026-09-07 02:19:58 [INFO]    kick <player>             removes a player from the server
+2026-09-07 02:19:58 [INFO]    ban <player>              bans a player from the server
+2026-09-07 02:19:58 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-09-07 02:19:58 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-09-07 02:19:58 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-09-07 02:19:58 [INFO]    op <player>               turns a player into an op
+2026-09-07 02:19:58 [INFO]    deop <player>             removes op status from a player
+2026-09-07 02:19:58 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-09-07 02:19:58 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-09-07 02:19:58 [INFO]    tell <player> <message>   sends a private message to a player
+2026-09-07 02:19:58 [INFO]    stop                      gracefully stops the server
+2026-09-07 02:19:58 [INFO]    save-all                  forces a server-wide level save
+2026-09-07 02:19:58 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-09-07 02:19:58 [INFO]    save-on                   re-enables terrain saving
+2026-09-07 02:19:58 [INFO]    list                      lists all currently connected players
+2026-09-07 02:19:58 [INFO]    say <message>             broadcasts a message to all players
+2026-09-07 02:19:58 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-09-07 02:20:19 [INFO] Connected players: 
+2026-09-07 02:20:24 [INFO] /127.0.0.1:49268 lost connection
+2026-09-07 02:20:46 [INFO] /127.0.0.1:35812 lost connection
+2026-09-07 02:22:00 [INFO] CONSOLE: Stopping the server..
+2026-09-07 02:22:00 [INFO] Stopping server
+2026-09-07 02:22:00 [INFO] Saving chunks
+2026-09-07 02:22:00 [INFO] Saving chunks
+2026-09-07 02:22:35 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-07 02:22:35 [INFO] Loading properties
+2026-09-07 02:22:35 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-07 02:22:35 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-07 02:22:35 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-07 02:22:35 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-07 02:22:35 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-07 02:22:35 [INFO] Preparing level "world"
+2026-09-07 02:22:35 [INFO] Preparing start region for level 0
+2026-09-07 02:22:35 [INFO] Preparing start region for level 1
+2026-09-07 02:22:35 [INFO] Done (287077608ns)! For help, type "help" or "?"
+2026-09-07 02:22:53 [INFO] Kr1ms0n__ [/127.0.0.1:56324] logged in with entity id 4 at (2.5, 65.62000000476837, 47.5)
+2026-09-07 02:29:22 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-07 02:29:35 [INFO] Stopping server
+2026-09-07 02:29:35 [INFO] Saving chunks
+2026-09-07 02:29:35 [INFO] Saving chunks
+2026-09-11 19:20:34 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-11 19:20:34 [INFO] Loading properties
+2026-09-11 19:20:34 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-11 19:20:34 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-11 19:20:34 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-11 19:20:34 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-11 19:20:34 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-11 19:20:34 [INFO] Preparing level "world"
+2026-09-11 19:20:34 [INFO] Preparing start region for level 0
+2026-09-11 19:20:34 [INFO] Preparing start region for level 1
+2026-09-11 19:20:35 [INFO] Preparing spawn area: 97%
+2026-09-11 19:20:35 [INFO] Done (1025313267ns)! For help, type "help" or "?"
+2026-09-11 19:20:47 [INFO] Kr1ms0n__ [/127.0.0.1:55622] logged in with entity id 153 at (26.252395444483174, 64.0, -3.9270813776097384)
+2026-09-11 19:20:54 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-11 19:20:59 [INFO] Stopping server
+2026-09-11 19:20:59 [INFO] Saving chunks
+2026-09-11 19:20:59 [INFO] Saving chunks
+2026-09-11 19:22:06 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-11 19:22:06 [INFO] Loading properties
+2026-09-11 19:22:06 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-11 19:22:06 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-11 19:22:06 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-11 19:22:06 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-11 19:22:06 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-11 19:22:06 [INFO] Preparing level "Glacier"
+2026-09-11 19:22:06 [INFO] Preparing start region for level 0
+2026-09-11 19:22:06 [INFO] Preparing start region for level 1
+2026-09-11 19:22:06 [INFO] Done (248135977ns)! For help, type "help" or "?"
+2026-09-11 19:22:12 [INFO] Kr1ms0n__ [/127.0.0.1:56048] logged in with entity id 60 at (-9.5, 69.62000000476837, 11.5)
+2026-09-11 19:22:41 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-11 19:22:44 [INFO] Kr1ms0n__ [/127.0.0.1:57716] logged in with entity id 2041 at (-8.59015296922644, 68.0, 18.943533748809546)
+2026-09-11 19:23:31 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-11 19:23:31 [INFO] Loading properties
+2026-09-11 19:23:31 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-11 19:23:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-11 19:23:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-11 19:23:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-11 19:23:31 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-11 19:23:31 [INFO] Preparing level "Glacier"
+2026-09-11 19:23:31 [INFO] Preparing start region for level 0
+2026-09-11 19:23:31 [INFO] Preparing start region for level 1
+2026-09-11 19:23:31 [INFO] Done (260698449ns)! For help, type "help" or "?"
+2026-09-11 19:23:36 [INFO] Kr1ms0n__ [/127.0.0.1:54768] logged in with entity id 170 at (-8.59015296922644, 68.0, 18.943533748809546)
+2026-09-11 19:23:46 [INFO] <Kr1ms0n__> fly
+2026-09-11 19:23:58 [INFO] Kr1ms0n__ tried command: flight
+2026-09-11 20:02:55 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-11 20:02:55 [INFO] Loading properties
+2026-09-11 20:02:55 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-11 20:02:55 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-11 20:02:55 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-11 20:02:55 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-11 20:02:55 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-11 20:02:55 [INFO] Preparing level "Glacier"
+2026-09-11 20:02:55 [INFO] Preparing start region for level 0
+2026-09-11 20:02:55 [INFO] Preparing start region for level 1
+2026-09-11 20:02:55 [INFO] Done (262269771ns)! For help, type "help" or "?"
+2026-09-11 20:03:00 [INFO] Kr1ms0n__ [/127.0.0.1:46390] logged in with entity id 161 at (-8.59015296922644, 68.0, 18.943533748809546)
+2026-09-11 20:03:54 [INFO] To run the server without a gui, start it like this:
+2026-09-11 20:03:54 [INFO]    java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui
+2026-09-11 20:03:54 [INFO] Console commands:
+2026-09-11 20:03:54 [INFO]    help  or  ?               shows this message
+2026-09-11 20:03:54 [INFO]    kick <player>             removes a player from the server
+2026-09-11 20:03:54 [INFO]    ban <player>              bans a player from the server
+2026-09-11 20:03:54 [INFO]    pardon <player>           pardons a banned player so that they can connect again
+2026-09-11 20:03:54 [INFO]    ban-ip <ip>               bans an IP address from the server
+2026-09-11 20:03:54 [INFO]    pardon-ip <ip>            pardons a banned IP address so that they can connect again
+2026-09-11 20:03:54 [INFO]    op <player>               turns a player into an op
+2026-09-11 20:03:54 [INFO]    deop <player>             removes op status from a player
+2026-09-11 20:03:54 [INFO]    tp <player1> <player2>    moves one player to the same location as another player
+2026-09-11 20:03:54 [INFO]    give <player> <id> [num]  gives a player a resource
+2026-09-11 20:03:54 [INFO]    tell <player> <message>   sends a private message to a player
+2026-09-11 20:03:54 [INFO]    stop                      gracefully stops the server
+2026-09-11 20:03:54 [INFO]    save-all                  forces a server-wide level save
+2026-09-11 20:03:54 [INFO]    save-off                  disables terrain saving (useful for backup scripts)
+2026-09-11 20:03:54 [INFO]    save-on                   re-enables terrain saving
+2026-09-11 20:03:54 [INFO]    list                      lists all currently connected players
+2026-09-11 20:03:54 [INFO]    say <message>             broadcasts a message to all players
+2026-09-11 20:03:54 [INFO]    time <add|set> <amount>   adds to or sets the world time (0-24000)
+2026-09-11 20:04:18 [INFO] CONSOLE: Opping Kr1ms0n__
+2026-09-11 20:10:53 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-11 20:10:56 [INFO] Kr1ms0n__ [/127.0.0.1:45442] logged in with entity id 5759 at (-23.062615873339386, 69.0, 4.6543243600143285)
+2026-09-11 20:16:50 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-16 23:49:27 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-16 23:49:27 [INFO] Loading properties
+2026-09-16 23:49:27 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-16 23:49:27 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-16 23:49:27 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-16 23:49:27 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-16 23:49:27 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-16 23:49:27 [INFO] Preparing level "Server"
+2026-09-16 23:49:27 [INFO] Preparing start region for level 0
+2026-09-16 23:49:28 [INFO] Preparing spawn area: 36%
+2026-09-16 23:49:29 [INFO] Preparing spawn area: 77%
+2026-09-16 23:49:30 [INFO] Preparing start region for level 1
+2026-09-16 23:49:30 [INFO] Preparing spawn area: 4%
+2026-09-16 23:49:31 [INFO] Preparing spawn area: 28%
+2026-09-16 23:49:32 [INFO] Preparing spawn area: 36%
+2026-09-16 23:49:33 [INFO] Preparing spawn area: 48%
+2026-09-16 23:49:34 [INFO] Preparing spawn area: 61%
+2026-09-16 23:49:35 [INFO] Preparing spawn area: 73%
+2026-09-16 23:49:36 [INFO] Preparing spawn area: 85%
+2026-09-16 23:49:37 [INFO] Preparing spawn area: 97%
+2026-09-16 23:49:37 [INFO] Done (10296445783ns)! For help, type "help" or "?"
+2026-09-16 23:52:11 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-16 23:52:11 [INFO] Loading properties
+2026-09-16 23:52:11 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-16 23:52:11 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-16 23:52:11 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-16 23:52:11 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-16 23:52:11 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-16 23:52:11 [INFO] Preparing level "Server"
+2026-09-16 23:52:11 [INFO] Preparing start region for level 0
+2026-09-16 23:52:12 [INFO] Preparing start region for level 1
+2026-09-16 23:52:12 [INFO] Preparing spawn area: 73%
+2026-09-16 23:52:14 [INFO] Preparing spawn area: 89%
+2026-09-16 23:52:14 [INFO] Done (2814932839ns)! For help, type "help" or "?"
+2026-09-16 23:55:06 [INFO] Kr1ms0n__ [/127.0.0.1:46964] logged in with entity id 3 at (-5.5, 64.62000000476837, -3.5)
+2026-09-16 23:57:29 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:00:53 [INFO] Kr1ms0n__ [/127.0.0.1:36640] logged in with entity id 3373 at (166.97776121587788, 76.0, 3.8428312719259434)
+2026-09-17 00:01:58 [INFO] Kr1ms0n__ lost connection: disconnect.quitting

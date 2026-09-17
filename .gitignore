@@ -3,3 +3,10 @@
 # Jellyfin data
 jellyfin/config/
 jellyfin/cache/
+
+# Minecraft data
+
+# Java Server
+minecraft_server/b1.7.3.jar
+# World Data
+minecraft_server/MyServer
