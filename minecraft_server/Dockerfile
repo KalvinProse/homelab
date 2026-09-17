@@ -1,4 +1,7 @@
+# Beta minecraft Docker image
+#
 FROM eclipse-temurin:8
+
 VOLUME ["/app"]
 
 WORKDIR /app

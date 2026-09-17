@@ -263,3 +263,53 @@
 2026-09-16 23:57:29 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
 2026-09-17 00:00:53 [INFO] Kr1ms0n__ [/127.0.0.1:36640] logged in with entity id 3373 at (166.97776121587788, 76.0, 3.8428312719259434)
 2026-09-17 00:01:58 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:21:47 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-17 00:21:47 [INFO] Loading properties
+2026-09-17 00:21:47 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-17 00:21:47 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-17 00:21:47 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-17 00:21:47 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-17 00:21:47 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-17 00:21:47 [INFO] Preparing level "MyServer"
+2026-09-17 00:21:48 [INFO] Preparing start region for level 0
+2026-09-17 00:21:49 [INFO] Preparing spawn area: 20%
+2026-09-17 00:21:50 [INFO] Preparing spawn area: 40%
+2026-09-17 00:21:51 [INFO] Preparing spawn area: 60%
+2026-09-17 00:21:52 [INFO] Preparing spawn area: 73%
+2026-09-17 00:21:53 [INFO] Preparing spawn area: 89%
+2026-09-17 00:21:53 [INFO] Preparing start region for level 1
+2026-09-17 00:21:54 [INFO] Preparing spawn area: 12%
+2026-09-17 00:21:55 [INFO] Preparing spawn area: 28%
+2026-09-17 00:21:56 [INFO] Preparing spawn area: 36%
+2026-09-17 00:21:57 [INFO] Preparing spawn area: 44%
+2026-09-17 00:21:58 [INFO] Preparing spawn area: 57%
+2026-09-17 00:21:59 [INFO] Preparing spawn area: 69%
+2026-09-17 00:22:00 [INFO] Preparing spawn area: 81%
+2026-09-17 00:22:01 [INFO] Preparing spawn area: 93%
+2026-09-17 00:22:01 [INFO] Done (13978250565ns)! For help, type "help" or "?"
+2026-09-17 00:26:18 [INFO] Kr1ms0n__ [/127.0.0.1:40660] logged in with entity id 4648 at (85.5, 67.62000000476837, 117.5)
+2026-09-17 00:27:42 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:27:47 [INFO] Kr1ms0n__ [/127.0.0.1:60740] logged in with entity id 8395 at (175.82181931801097, 110.0, 96.4475759399117)
+2026-09-17 00:28:21 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:28:25 [INFO] Kr1ms0n__ [/127.0.0.1:58068] logged in with entity id 8686 at (175.17127432790696, 109.0, 96.03785811827213)
+2026-09-17 00:29:28 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:29:34 [INFO] Kr1ms0n__ [/127.0.0.1:44150] logged in with entity id 10191 at (156.5143679848894, 82.0, 122.48935051602571)
+2026-09-17 00:30:33 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:30:47 [INFO] Kr1ms0n__ [/127.0.0.1:42240] logged in with entity id 11642 at (117.13216335782161, 64.0, 60.30876435798791)
+2026-09-17 00:31:03 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:32:09 [INFO] Kr1ms0n__ [/127.0.0.1:52084] logged in with entity id 11969 at (119.30000001192096, 65.0, 76.3362896058516)
+2026-09-17 00:35:52 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 00:40:47 [INFO] Kr1ms0n__ [/127.0.0.1:48308] logged in with entity id 14405 at (72.22670618853982, 84.0, 206.32024572101085)
+2026-09-17 00:42:26 [INFO] Kr1ms0n__ lost connection: disconnect.quitting
+2026-09-17 01:03:35 [INFO] Starting minecraft server version Beta 1.7.3
+2026-09-17 01:03:35 [INFO] Loading properties
+2026-09-17 01:03:35 [INFO] Starting Minecraft server on 127.0.0.1:5560
+2026-09-17 01:03:35 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2026-09-17 01:03:35 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2026-09-17 01:03:35 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2026-09-17 01:03:35 [WARNING] To change this, set "online-mode" to "true" in the server.settings file.
+2026-09-17 01:03:35 [INFO] Preparing level "MyServer"
+2026-09-17 01:03:35 [INFO] Preparing start region for level 0
+2026-09-17 01:03:36 [INFO] Preparing spawn area: 16%
+2026-09-17 01:03:37 [INFO] Preparing start region for level 1
+2026-09-17 01:03:37 [INFO] Done (1930368465ns)! For help, type "help" or "?"

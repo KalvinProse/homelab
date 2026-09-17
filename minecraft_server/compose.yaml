@@ -1,12 +1,21 @@
 # Creates a Docker container tied to the host system
-name: b1.7.3Server
+name: b1.7.3
 services:
   minecraft:
     # Minecraft container name
     image: b1.7.3:latest
+    container_name: b1.7.3
     network_mode: "host"
     ports:
       - "5560:5560"
     # Mounts the binded directory that has all our config files
     volumes:
       - ./:/app
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 16G
+        reservations:
+          cpus: '1'
+          memory: 4G
