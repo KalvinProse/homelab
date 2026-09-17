@@ -1,9 +1,6 @@
 # Beta minecraft Docker image
 FROM eclipse-temurin:8-jre
 
-
-VOLUME ["/app"]
-
 WORKDIR /app
 COPY b1.7.3.jar /app/b1.7.3.jar
 
